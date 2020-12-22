@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Pranaya Rath",
+      "username": "Rahul",
+      "email": "pranayarath@gmail.com",
+      "phone": "7377533931",
+      "website": "https://pranayarathpr.netlify.app/",
+      "id": 1
+    },
+    {
+      "name": "Harish Sahoo",
+      "username": "Harish-coder",
+      "email": "harish@gmail.com",
+      "phone": "4646543",
+      "website": "https://pranayarathpr.netlify.app/",
+      "id": 2
+    },
+    {
+      "name": "Ram",
+      "username": "Ram@123",
+      "email": "ram@gmail.com",
+      "phone": "939393930",
+      "website": "ram.com",
+      "id": 3
+    },
+    {
+      "name": "Hari",
+      "username": "Hari@78",
+      "email": "Hari@gmail.com",
+      "phone": "6370544932",
+      "website": "hari.in",
+      "id": 4
+    },
+    {
+      "name": "Virendra sehwag",
+      "username": "viru@01",
+      "email": "virusehwag@gmail.com",
+      "phone": "546462232",
+      "website": "viruinternational.in",
+      "id": 5
+    },
+    {
+      "name": "Ms dhoni",
+      "username": "ms7781",
+      "email": "msd@gmail.com",
+      "phone": "777-777-777",
+      "website": "msdin.com",
+      "id": 6
+    },
+    {
+      "name": "Suresh Raina",
+      "username": "Suresh",
+      "email": "suresh@gmail.com",
+      "phone": "1231231230",
+      "website": "sureshrainacsk.in",
+      "id": 7
+    },
+    {
+      "name": "Gopal sharma",
+      "username": "Gopal@79",
+      "email": "gopalsharma@gmail.com",
+      "phone": "898989478",
+      "website": "gopal.com",
+      "id": 8
+    },
+    {
+      "name": "Sachine",
+      "username": "Sachine@10",
+      "email": "sachine@gmail.com",
+      "phone": "8989897441",
+      "website": "sachinecricket.com",
+      "id": 9
+    }
+  ]
+}
